@@ -1,0 +1,40 @@
+/*-------------------------
+ font family google link
+--------------------------- */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* border */
+.link a:hover i{
+    color: rgb(7, 166, 187);
+}
+/* text */
+.nav-link{
+    color: white!important;
+}
+/* got quick */
+.my-style a{
+     text-decoration: none;
+     color: rgb(19, 18, 18);
+}
+.my-style a:hover{
+     color: crimson;
+}
+/* image gellery */
+.catagory-image{
+    
+}
+.texts{
+    
+}
+/* media querry */
+@media screen, (max-width:688px) {
+    .xss{
+        display: none;
+    }
+}
+@media screen, (max-width: 450px){
+    .frame{
+        width: 350px;
+    }
+}
